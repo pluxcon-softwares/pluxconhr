@@ -1,0 +1,11 @@
+/bootstrap/compiled.php
+/build/logs
+/build/coverage
+/node_modules
+/storage/debugbar
+/vendor
+
+
+.DS_Store
+.vagrant/
+.env
